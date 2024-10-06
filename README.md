@@ -1,2 +1,2 @@
 # Basic-Logistics-Webpage
- Using Bootstrap framework i Created an Simple non functional logistics webpage
+ I Created an basic functional logistics webpage using bootstrap framework.
